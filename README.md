@@ -1,1 +1,1 @@
-# Symptom-checker-app
+# symptom-checker-chat-bot
