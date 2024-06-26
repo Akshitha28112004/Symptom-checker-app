@@ -47,7 +47,7 @@ initial_query = (
 )
 st.session_state.chat.send_message(initial_query)
 with st.chat_message("assistant",avatar="👨‍⚕️"):
-    st.markdown("Welcome! I am a hospital finder bot. Describe your location and symptoms, and I will provide you nearest hospitals you can visit.")
+    st.markdown("Welcome! I am a Hospital finder bot. Enter your location and I will provide you nearest hospitals you can visit.")
 
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
