@@ -11,7 +11,7 @@
 ## About
 The Symptom Checker app allows users to input their symptoms and receive possible diagnoses and remedies. The app also assesses the severity of the symptoms. Additionally, users can find nearby hospitals by entering their area and specifying the type of doctor they need.
 
-![Home Page]("C:\Users\akshi\OneDrive\Desktop\git\Screenshot 2024-06-29 223633.png")
+![Home Page]("https://github.com/Akshitha28112004/Photos/blob/main/WhatsApp%20Image%202024-06-28%20at%2022.27.36_1a8a17fb.jpg")
 
 ## Features
 - 🏥 Symptom Checker: Input symptoms and get possible diagnoses and remedies.
@@ -45,14 +45,17 @@ Find Hospitals: Navigate to the "Find Hospitals" page. Enter your area and the t
 The following sections provide insights into the app's performance and user feedback.
 
 Confusion Matrix
-
-User Ratings Distribution
+![Confusion Matrix]("https://github.com/Akshitha28112004/Photos/blob/main/Screenshot%202024-07-01%20230845.png")
 
 Response Time Analysis
+![Response Time Analysis]("https://github.com/Akshitha28112004/Photos/blob/main/Screenshot%202024-07-01%20230436.png")
 
 Load Testing Results
+![Load Testing Results]("https://github.com/Akshitha28112004/Photos/blob/main/Screenshot%202024-07-01%20230511.png")
 
 Scalability Test Results
+![Scalability Test]("https://github.com/Akshitha28112004/Photos/blob/main/Screenshot%202024-07-01%20230538.png")
+
 
 ## Conclusion
 The Symptom Checker app is a powerful and user-friendly tool designed to help individuals quickly assess their symptoms and find potential diagnoses and remedies. By leveraging advanced AI models and an intuitive interface, the app aims to provide accurate and timely medical information to users. Additionally, the hospital locator feature ensures that users can find nearby healthcare facilities and specialists based on their needs.
