@@ -11,7 +11,7 @@
 ## About
 The Symptom Checker app allows users to input their symptoms and receive possible diagnoses and remedies. The app also assesses the severity of the symptoms. Additionally, users can find nearby hospitals by entering their area and specifying the type of doctor they need.
 
-![Home Page]("https://github.com/Akshitha28112004/Photos/blob/main/WhatsApp%20Image%202024-06-28%20at%2022.27.36_1a8a17fb.jpg")
+![Home Page]("WhatsApp Image 2024-06-28 at 22.27.36_1a8a17fb.jpg")
 
 ## Features
 - 🏥 Symptom Checker: Input symptoms and get possible diagnoses and remedies.
