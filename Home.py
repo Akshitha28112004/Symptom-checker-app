@@ -40,7 +40,7 @@ if "messages" not in st.session_state:
 
 initial_query = (
     "Act as a medical symptom checker chatbot. A user will describe their symptoms, "
-    "and you will provide possible medical conditions that match those symptoms and the kind of doctor they should visit if its severe. "
+    "and you will provide possible medical conditions that match those symptoms . "
     "Additionally, if the symptoms indicate a serious condition, suggest that the user see a doctor. "
     "Please respond with possible conditions and appropriate medical advice."
     "dont respond if user asks for any other contents other than medical related"
